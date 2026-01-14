@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dc94965f662c4547930a25bc07944fc, type: 3}
+  m_Name: NoticeComplete
+  m_EditorClassIdentifier: 
+  noticeTitle: Tour completado
+  noticeMessage: "\xA1Excelente trabajo! Has terminado el recorrido."
+  noticeJack: {fileID: 21300000, guid: a7d0e83b9d4fc0c4791f8da8c74021f8, type: 3}
+  noticeAudioClip: {fileID: 8300000, guid: 93cad8a20a6f590438c7f966f277c500, type: 3}

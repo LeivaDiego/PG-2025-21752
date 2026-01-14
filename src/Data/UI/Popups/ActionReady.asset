@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe9c1f2e10ba6b4288eaece0e686a1f, type: 3}
+  m_Name: ActionReady
+  m_EditorClassIdentifier: 
+  actionTitle: Siguiente Nivel
+  actionDescription: "Sube al elevador y contin\xFAa hasta el piso indicado en la
+    pantalla para seguir el recorrido."
+  actionJack: {fileID: 21300000, guid: 33dc1e74fd0830a4898fade34cd48fa5, type: 3}
+  actionBtnText: Listo
+  actionAudioClip: {fileID: 8300000, guid: 0774706bc6fc23746a763d3f45c6cf10, type: 3}
